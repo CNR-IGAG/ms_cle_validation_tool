@@ -1,0 +1,45 @@
+# Mandatory items:
+
+[general]
+
+name=MS Project Validation Tool
+
+qgisMinimumVersion=2.16
+
+description=Validation tool for Seismic Microzonation projects.
+
+version=0.1
+author=IGAG-CNR
+email=labgis@igag.cnr.it
+
+
+about=The plugin allows the operator to report any errors present in a seismic microzonation project according to the Italian standards of representation and computer archiving version 4.1 (Technical commission for seismic microzonation - art. 5 paragraph 7, OPCM 13 nov. 2010, n. 3907). The software provider does not provide any warranty for the program (as described in the GPLv3 license). 
+
+    Il plugin consente di segnalare gli eventuali errori presenti all'interno di un progetto di microzonazione sismica nel rispetto degli Standard di rappresentazione ed archiviazione informatica versione 4.1 (Commissione tecnica per la microzonazione sismica - art. 5, comma 7 dell’OPCM 13 nov. 2010, n. 3907). Il fornitore del software non fornisce alcun tipo di garanzia per il programma (come descritto all'interno della licenza GPLv3).
+changelog=
+		<b>v0.1:</b>
+				-  initial relase.		
+
+tracker=https://github.com/CNR-IGAG/ms_cle_validation_tool/issues
+
+repository=https://github.com/CNR-IGAG/ms_cle_validation_tool
+
+# End of mandatory metadata
+
+
+# Recommended items:
+
+
+
+tags=Italy, Seismic hazard, seismic microzonation, microzonazione sismica, pericolosità geologica
+
+
+homepage=https://github.com/CNR-IGAG/ms_cle_validation_tool/wiki
+category=Database
+icon=icon.png
+# experimental flag
+experimental=False
+
+# deprecated flag (applies to the whole plugin, not just a single version)
+deprecated=False
+
